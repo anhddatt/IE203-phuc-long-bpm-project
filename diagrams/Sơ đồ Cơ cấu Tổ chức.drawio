@@ -1,4 +1,4 @@
-<mxfile host="Electron" pages="9">
+<mxfile host="Electron" pages="11">
   <diagram name="Sơ đồ Cơ cấu Tổ chức" id="55LXCytNgH7jUQa9qpin">
     <mxGraphModel dx="-19" dy="505" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Mở cửa,&lt;br&gt;bật thiết bị" vertex="1">
+          <mxGeometry height="65" width="110" x="124" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Vệ sinh,&lt;br&gt;chuẩn bị&lt;br&gt;nguyên liệu" vertex="1">
+          <mxGeometry height="65" width="110" x="218" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Phân công&lt;br&gt;ca trực" vertex="1">
+          <mxGeometry height="65" width="110" x="312" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Vận hành,&lt;br&gt;phục vụ&lt;br&gt;khách" vertex="1">
+          <mxGeometry height="65" width="110" x="406" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Chốt ca,&lt;br&gt;kiểm kê&lt;br&gt;doanh thu" vertex="1">
+          <mxGeometry height="65" width="110" x="500" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="0xaPR_IPNv8PLF2MjqEn-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Vệ sinh,&lt;br&gt;đóng cửa" vertex="1">
+          <mxGeometry height="65" width="110" x="594" y="465" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -277,19 +295,107 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Yêu cầu&lt;br&gt;tuyển dụng" vertex="1">
+          <mxGeometry height="65" width="110" x="124" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Đăng tin,&lt;br&gt;sàng lọc hồ sơ" vertex="1">
+          <mxGeometry height="65" width="110" x="218" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Phỏng vấn&lt;br&gt;vầ tuyển chọn" vertex="1">
+          <mxGeometry height="65" width="110" x="312" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Ký hợp đồng&lt;br&gt;thử việc" vertex="1">
+          <mxGeometry height="65" width="110" x="406" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;convertToSvg=1;svgWhiteSpace=wrap;" value="Đào tạo lý thuyết và&lt;br&gt;thực hành" vertex="1">
+          <mxGeometry height="65" width="110" x="500" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="-5PVOtW2Np4N7ZFfOTjS-7" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=14;convertToSvg=1;svgWhiteSpace=wrap;" value="Kiểm tra&lt;br&gt;năng lực và&lt;br&gt;ký chính thức" vertex="1">
+          <mxGeometry height="65" width="110" x="594" y="405" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="xH7aa2tnBOo80BfN6jeN" name="Phê duyệt NCC &amp; Quản lý kho vận">
+  <diagram id="xH7aa2tnBOo80BfN6jeN" name="GĐ1. Phê duyệt NCC">
     <mxGraphModel dx="1414" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AndbM_3mocbSF312nTwB-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Xác định&lt;br&gt;yêu cầu nhà cung cấp" vertex="1">
+          <mxGeometry height="65" width="110" x="135" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AndbM_3mocbSF312nTwB-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Kiểm tra cơ sở dữ liệu&lt;br&gt;nhà cung cấp" vertex="1">
+          <mxGeometry height="65" width="110" x="229" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AndbM_3mocbSF312nTwB-3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Khảo sát&lt;br&gt;thực tế&lt;br&gt;cơ sở" vertex="1">
+          <mxGeometry height="65" width="110" x="323" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AndbM_3mocbSF312nTwB-4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Đánh giá&lt;br&gt;sơ bộ mẫu&amp;nbsp;&lt;div&gt;sản phẩm&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="110" x="417" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AndbM_3mocbSF312nTwB-5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Thẩm định&lt;br&gt;pháp lý" vertex="1">
+          <mxGeometry height="65" width="110" x="511" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AndbM_3mocbSF312nTwB-6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=14;" value="Ký kết&lt;br&gt;hợp đồng&lt;br&gt;cung cấp" vertex="1">
+          <mxGeometry height="65" width="110" x="605" y="360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="YwurGn4fw_Mzuy_sncAK" name="Quản lý kho vận (Sản xuất Phúc Long)">
+  <diagram id="flJr71kTZiM9eOxB9c-Y" name="GĐ2. Quản lý kho vận">
     <mxGraphModel dx="1414" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o2SIXcNP18OYmcy35cB--1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Thu hoạch&lt;br&gt;nguyên liệu" vertex="1">
+          <mxGeometry height="65" width="110" x="124" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o2SIXcNP18OYmcy35cB--2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Sơ chế loại bỏ&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tạp &lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;chất&lt;/span&gt;" vertex="1">
+          <mxGeometry height="65" width="110" x="218" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o2SIXcNP18OYmcy35cB--3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Chế biến&lt;br&gt;nguyên liệu" vertex="1">
+          <mxGeometry height="65" width="110" x="312" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o2SIXcNP18OYmcy35cB--4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Kiểm định&lt;br&gt;chất lượng" vertex="1">
+          <mxGeometry height="65" width="110" x="406" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o2SIXcNP18OYmcy35cB--5" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Nhập tổng&lt;br&gt;kho bảo quản" vertex="1">
+          <mxGeometry height="65" width="110" x="500" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="o2SIXcNP18OYmcy35cB--6" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Xuất hàng&lt;br&gt;giao cho&amp;nbsp;&lt;div&gt;cửa hàng&lt;/div&gt;" vertex="1">
+          <mxGeometry height="65" width="110" x="594" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YwurGn4fw_Mzuy_sncAK" name="Hỗ trợ CNTT IT Helpdesk">
+    <mxGraphModel dx="1414" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-8" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=14;html=1;" value="Phát hiện&amp;nbsp;&lt;br&gt;sự cố&amp;nbsp;và&amp;nbsp;&lt;br&gt;tạo phiếu" vertex="1">
+          <mxGeometry height="65" width="110" x="90" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-9" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=14;html=1;" value="Tiếp nhận và phân loại độ ưu tiên" vertex="1">
+          <mxGeometry height="65" width="110" x="184" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-10" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=14;html=1;" value="Xử lý lỗi&amp;nbsp;&lt;br&gt;phần mềm&amp;nbsp;&lt;br&gt;từ xa&lt;br&gt;" vertex="1">
+          <mxGeometry height="65" width="110" x="278" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-11" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=14;html=1;" value="Xử lý sự cố&lt;br&gt;mạng và hạ tầng phức tạp" vertex="1">
+          <mxGeometry height="65" width="110" x="372" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-12" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=14;html=1;" value="Đến cửa&amp;nbsp;&lt;br&gt;hàng thay&amp;nbsp;&lt;br&gt;thiết bị hỏng&amp;nbsp;" vertex="1">
+          <mxGeometry height="65" width="110" x="466" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="zLw9lOUPtEU12lA3-Xsa-13" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=14;spacingRight=12;html=1;" value="Kiểm tra vận&lt;br&gt;hành tốt và đóng phiếu" vertex="1">
+          <mxGeometry height="65" width="110" x="560" y="435" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o7P4qi3nI4fRmwUmW_kp" name="Trang-11">
+    <mxGraphModel dx="2828" dy="1766" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
