@@ -148,7 +148,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3I-bPcCulrsccjmF8Aqi-1" parent="1" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=30;horizontalStack=0;whiteSpace=wrap;fontStyle=1;fontSize=14;fillColor=#006838;strokeColor=#004826;fontColor=#ffffff;" value="Vận hành Quầy Bar Cửa hàng Phúc Long Coffee &amp; Tea" vertex="1">
-          <mxGeometry height="740" width="2220" x="160" y="1350" as="geometry" />
+          <mxGeometry height="740" width="2220" x="600" y="1640" as="geometry" />
         </mxCell>
         <mxCell id="3I-bPcCulrsccjmF8Aqi-2" parent="3I-bPcCulrsccjmF8Aqi-1" style="swimlane;html=1;startSize=30;horizontal=0;fontStyle=1;fontSize=14;fillColor=#f0f7f0;strokeColor=#4caf50;" value="Nhân viên Thu ngân và Phục vụ Phúc Long" vertex="1">
           <mxGeometry height="270" width="2190" x="30" as="geometry" />
@@ -246,8 +246,8 @@
         <mxCell id="3I-bPcCulrsccjmF8Aqi-33" edge="1" parent="1" source="3I-bPcCulrsccjmF8Aqi-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1;fontSize=13;labelBackgroundColor=#ffffff;horizontal=1;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#1b5e20;" target="3I-bPcCulrsccjmF8Aqi-15" value="Chỉ Đồ Uống">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="775" y="1380" />
-              <mxPoint x="1035" y="1380" />
+              <mxPoint x="1215" y="1670" />
+              <mxPoint x="1475" y="1670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -269,8 +269,8 @@
         <mxCell id="3I-bPcCulrsccjmF8Aqi-39" edge="1" parent="1" source="3I-bPcCulrsccjmF8Aqi-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=1;fontSize=13;labelBackgroundColor=#ffffff;horizontal=1;endArrow=blockThin;endFill=1;strokeWidth=2;strokeColor=#c62828;" target="3I-bPcCulrsccjmF8Aqi-15" value="Chưa Đạt (Pha lại)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1175" y="1530" />
-              <mxPoint x="1035" y="1530" />
+              <mxPoint x="1615" y="1820" />
+              <mxPoint x="1475" y="1820" />
             </Array>
           </mxGeometry>
         </mxCell>
