@@ -183,8 +183,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="hujVs50gdsbUGpC4nC9X" name="Hoạch định chiến lược">
-    <mxGraphModel dx="1414" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="hujVs50gdsbUGpC4nC9X" name="1.Hoạch định chiến lược">
+    <mxGraphModel dx="1427" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,27 @@
         </mxCell>
         <mxCell id="G-SwcwjX_ZxBs-VCmwrp-60" parent="G-SwcwjX_ZxBs-VCmwrp-71" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Phân bổ&lt;br&gt;KPI xuống&lt;br&gt;phòng ban" vertex="1">
           <mxGeometry height="65" width="110" x="470" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-1" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="70" width="630" x="120" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-2" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Đánh giá&lt;br&gt;kết quả&lt;br&gt;kinh doanh" vertex="1">
+          <mxGeometry height="70" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-3" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Phân tích&lt;br&gt;thị trường&lt;br&gt;F&amp;amp;B" vertex="1">
+          <mxGeometry height="70" width="120" x="102" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-4" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Xây dựng&lt;br&gt;mục tiêu&lt;br&gt;chiến lược" vertex="1">
+          <mxGeometry height="70" width="120" x="204" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-5" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Lập, thẩm định&lt;br&gt;ngân sách" vertex="1">
+          <mxGeometry height="70" width="120" x="306" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-6" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Phê duyệt&lt;br&gt;chiến lược" vertex="1">
+          <mxGeometry height="70" width="120" x="408" as="geometry" />
+        </mxCell>
+        <mxCell id="CEhgd_wfb1jZzR8b_P7f-7" parent="CEhgd_wfb1jZzR8b_P7f-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Phân bổ KPI&lt;br&gt;và triển khai" vertex="1">
+          <mxGeometry height="70" width="120" x="510" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
