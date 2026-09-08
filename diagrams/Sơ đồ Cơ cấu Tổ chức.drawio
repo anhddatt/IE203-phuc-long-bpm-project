@@ -184,7 +184,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hujVs50gdsbUGpC4nC9X" name="1.Hoạch định chiến lược">
-    <mxGraphModel dx="1427" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="840" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,11 +234,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="k-sovZe2i4ion_39zQjy" name="Quản lý chất lượng">
-    <mxGraphModel dx="1414" dy="883" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="904" dy="840" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LvMSi--UEllTsFJ2VBC5-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Thiết lập&lt;br&gt;SOP tiêu&lt;br&gt;chuẩn" vertex="1">
+        <mxCell id="LvMSi--UEllTsFJ2VBC5-1" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Thiết lập&lt;br&gt;&amp;nbsp;tiêu chuẩn" vertex="1">
           <mxGeometry height="65" width="110" x="120" y="520" as="geometry" />
         </mxCell>
         <mxCell id="LvMSi--UEllTsFJ2VBC5-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=16;strokeWidth=1.5;fontFamily=Times New Roman;fontSize=13;align=center;verticalAlign=middle;spacingLeft=16;spacingRight=16;" value="Kiểm tra&lt;br&gt;đầu vào&lt;br&gt;hằng ngày" vertex="1">
